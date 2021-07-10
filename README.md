@@ -6,3 +6,4 @@ test for learning how to use repository by team
 * donkeeg
 
 ## ファイル構成
+READMEのみ
