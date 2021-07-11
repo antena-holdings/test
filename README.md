@@ -7,3 +7,5 @@ test for learning how to use repository by team
 
 ## ファイル構成
 いまのところREADMEのみですね
+
+## コンフリクトテスト
