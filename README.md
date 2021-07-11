@@ -9,4 +9,4 @@ test for learning how to use repository by team
 いまのところREADMEのみですね
 
 ## コンフリクトテスト
-donkee1982による変更
+donkeegによる変更
