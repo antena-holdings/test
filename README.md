@@ -10,3 +10,5 @@ test for learning how to use repository by team
 
 ## コンフリクトテスト
 donkeegによる変更
+
+## チェックアウトテスト
